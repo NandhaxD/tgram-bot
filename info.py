@@ -3,6 +3,8 @@ import os
 
 
 class ExtConfig:
+       support = "NandhaSupport"
+       update = "NandhaBots"
        parse_mode = "Markdown"
 
 class BotConfig:
